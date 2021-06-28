@@ -2,8 +2,9 @@
 Learning classification using pycaret on python
 
 I tried these dataset from kaggle
-* House price - regression
-* Titanic - classification
-* Heart Disease UCI - classification
+* House price - regression - 0.15 RMSLE
+* Titanic - classification - 77%ish acc
+* Heart Disease UCI - classification - 82%ish acc
+* Iris - classification - 97% acc
 
 More to come !
