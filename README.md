@@ -5,3 +5,5 @@ I tried these dataset from kaggle
 * House price - regression
 * Titanic - classification
 * Heart Disease UCI - classification
+
+More to come !
