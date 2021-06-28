@@ -1,5 +1,5 @@
 # pycaret
-Learning classification using pycaret on python
+Learning statistical methods using pycaret on python
 
 I tried these dataset from kaggle
 * House price - regression - 0.15 RMSLE
